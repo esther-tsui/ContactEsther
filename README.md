@@ -1,2 +1,2 @@
 # ContactEsther
-A fully designed single view app that renders my contact details using SwiftUI. 
+A fully designed single view app using SwiftUI that renders my contact details.
